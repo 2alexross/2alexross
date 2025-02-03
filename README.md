@@ -32,16 +32,16 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/2alexross" target="_blank">
+  <a href="https://linkedin.com/in/2alexross" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="twitter.com/2alexross" target="_blank">
+  <a href="https://twitter.com/2alexross" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:alex@alexanderjross.com" target="_blank">
+  <a href="https://mailto:alex@alexanderjross.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="be.net/alex-ross" target="_blank">
+  <a href="https://be.net/alex-ross" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
 </div>
