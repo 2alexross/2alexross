@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">some of the software I use</h3>
+<h3 align="center"> ^ some of the software I use ^ </h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="center">how you can reach me</h3>
+<h3 align="center"> ^ where you can find me ^ </h3>
 
 ###
 
